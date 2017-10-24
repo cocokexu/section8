@@ -1,0 +1,15 @@
+body{
+   background-color: white;
+}
+
+.top-row{
+  background-color: yellow;
+}
+.buttom-row{
+  background-color: pink;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+.card-img-top{
+  height:118px;
+}
